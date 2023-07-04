@@ -1,1 +1,3 @@
 recommenders[examples,spark]
+gower
+plotly
