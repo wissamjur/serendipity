@@ -1,3 +1,5 @@
 recommenders[examples,spark]
 gower
 plotly
+communities
+networkx==2.8.8
